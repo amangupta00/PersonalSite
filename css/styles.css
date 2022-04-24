@@ -1,0 +1,11 @@
+body {
+    background-color: #eaf6f6;
+  }
+  hr {
+    background-color: inherit;
+    border-style: dotted none none;
+    border-top-width: 6px;
+    border-top-color: blue;
+    height: 1px;
+    width: 8%;
+  }
